@@ -1,14 +1,14 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://ayeskay.github.io"
+baseURL = "https://ayeskay.vercel.app"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Khabiya ka Blog"
+title = "ayeskay's blog"
 author = "Aditya Khabiya"
-copyright = "Copyright © 2024, Aditya Khabiya."
+copyright = "Copyright © 2025, Aditya Khabiya."
 languageCode = "en-IN"
 
 # Generate a nice robots.txt for SEO
